@@ -1,0 +1,4 @@
+\contentsline {section}{Introduction\vspace *{-10mm}}{1}
+\contentsline {section}{The Classical Hamilton and Lagrange formalism\vspace *{-10mm}}{3}
+\contentsline {section}{Going relativistic\vspace *{-10mm}}{18}
+\contentsline {section}{The Geodesic equation\vspace *{-10mm}}{20}

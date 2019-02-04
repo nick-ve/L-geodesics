@@ -1,6 +1,3 @@
-# L-geodesics
-Introductory lecture on geodesics in General Relativity
-
 Geodesics
 =========
 Following the formalism of Special and General Relativity in terms  
